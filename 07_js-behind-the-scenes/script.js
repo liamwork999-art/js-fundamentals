@@ -16,4 +16,8 @@
 // const firstName = 'jonas';
 // calcAge(1991);
 
-// 7.
+//
+
+// HOISTING
+
+const x = 10;
